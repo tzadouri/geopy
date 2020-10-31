@@ -8,6 +8,8 @@
 5. WAVL Tree
 6. Polygon Triangulation
 7. Linear Programming
+	Divide & Conquer Half Plane intersection 
+ 
 8. Lower Envelopes
 10. Davenport-Schinzel sequences 
 
