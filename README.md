@@ -11,5 +11,9 @@
 	Divide & Conquer Half Plane intersection 
  
 8. Lower Envelopes
-10. Davenport-Schinzel sequences 
+10. Davenport-Schinzel sequences
+
+
+Range Searching
+K-D trees 
 
