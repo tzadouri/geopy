@@ -18,3 +18,5 @@ Range Searching
 K-D trees 
 Planar Point location using persistent search trees
 Kirkpatricks panar point loacatino method
+
+Arrangements and Duality
