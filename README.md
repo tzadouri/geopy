@@ -22,4 +22,6 @@ Kirkpatricks panar point loacatino method
 Arrangements and Duality
 
 Delaunary triangulation
+random 
 3-D convex hulls
+
