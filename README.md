@@ -27,6 +27,7 @@ random
 
 Windowing data structures. 
 
+Priority Search Trees
 Segment Trees
 Interval Trees
 
