@@ -1,4 +1,5 @@
 1. Convex Hull Algorithm 
+*	O(nlog(n))
 2. Divide and Conquer Algorithms 
 * Upper Hull Binary Search 
 	Overmars and van Leeuwan
@@ -31,6 +32,11 @@ Priority Search Trees
 Segment Trees
 Interval Trees
 
+
+ToDo:
+1. Point
+2. Line, Segment, Ray
+3. Polygon
 
 
 
